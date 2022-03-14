@@ -38,4 +38,10 @@ Kemudian cobalah menggunakan beberapa format tag dan amati hasil perubahannya pa
 Simpan perubahannya kemudian refresh Web
 ![5b](https://user-images.githubusercontent.com/73062038/158128237-045c69f7-950d-4cc8-926f-afdcb52c0513.jpeg)
 
+6. Menambahkan Hyperlink Tambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut
+ ![6a](https://user-images.githubusercontent.com/73062038/158146365-d01cd6b3-c5bf-496f-b282-1a6701b15bce.jpeg)
+ Buat satu file lagi dengan nama lab1_halaman2.html kemudian isi dokumen tersebut dengan tag html dasar dan dengan isi bebas, boleh mengcopy dari halaman sebelumnya.
+![6b](https://user-images.githubusercontent.com/73062038/158146405-537584f7-330e-4de7-a041-6b88f7e3bb0e.jpeg)
+
+
 
